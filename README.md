@@ -17,7 +17,9 @@
 <br />
 <p align="center">
 
-  <a href="https://s2.glbimg.com/jSjr-G312XxUPZPlUoPKYusnrpI=/620x350/e.glbimg.com/og/ed/f/original/2021/05/17/novo_logo.png"></a>
+  <a href="">
+  <img alt="Frontend" src="https://s2.glbimg.com/jSjr-G312XxUPZPlUoPKYusnrpI=/620x350/e.glbimg.com/og/ed/f/original/2021/05/17/novo_logo.png" width="100%" style="max-width:100%;">
+    </a>
 
   <h3 align="center">Template nubank Basic</h3>
 </p>
