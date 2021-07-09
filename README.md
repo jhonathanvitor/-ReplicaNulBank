@@ -18,7 +18,7 @@
 <p align="center">
 
 
-  <h3 align="center">Template Rocketseat Basic</h3>
+  <h3 align="center">Template nubank Basic</h3>
 </p>
 
 <!-- TABLE OF CONTENTS -->
